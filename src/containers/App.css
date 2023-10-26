@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Pokemon Solid', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pokemon Solid'), url('Pokemon Solid.ttf') format('tff');
+}
+
+h1 {
+    font-family: 'Pokemon Solid', sans-serif;
+    font-weight: 200;
+    color: #c7a008;
+}
